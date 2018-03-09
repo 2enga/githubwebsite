@@ -1,0 +1,12 @@
+/*site.css*/
+header,footer {
+	background-color: lightgrey;
+	border: solid 1px black;
+	/*font-family: 'Times New Roman', sans-serif; */
+}
+
+body {
+	font-family: Segoe UI, Arial, Helvetica, sans-serif;
+	font-size: 14px; 
+}
+

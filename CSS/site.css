@@ -1,0 +1,41 @@
+/*site.css*/
+header,footer {
+	background-color: lightgrey;
+	border: solid 1px black;
+	font-family: 'Times New Roman', sans-serif; 
+}
+
+body {
+	font-family: Segoe UI, Arial, Helvetica, sans-serif;
+	font-size: 14px; 
+}
+
+footer {
+	padding: 10px;
+	border-radius: 3px;
+}
+
+#main {
+	border:solid 1px #CCC;
+	border-radius: 5px;
+	color: #202020;
+	margin: 20px 0 20px 0;
+	padding: 5px;
+}
+
+#main label {
+	font-weight:bold;
+}
+
+#main input[type=text],
+#main select {
+	width: 150px;
+}
+
+#main input[type=submit]{
+	background-color: green;
+	color: white;
+	border-radius: 15px;
+	padding: 3px;
+	margin-top: 5px;
+}
